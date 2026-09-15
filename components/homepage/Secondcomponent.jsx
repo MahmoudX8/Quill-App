@@ -1,6 +1,5 @@
 import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native'
 import React, { Component, useEffect, useState } from 'react'
-import fakenotes from '../fakenotes';
 import colors from '@/assets/colors/colors.js';
 import { FontAwesome, FontAwesome6, Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
